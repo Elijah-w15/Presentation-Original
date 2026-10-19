@@ -1,19 +1,16 @@
 # Presentation-Original
 The original PowerPoint, before I used AI to reformat it. The content and structure are mine; in the final version AI handled layout and cut the slide text down so the audience listens instead of reading ahead.
 
- ---
 # Whats Here
 original.pptx: my deck before reformatting\
 final.pptx: the version I presented\
 change_log.docx: before/after text for every slide, with word counts and layout notes\
 
----
 # Setup
 I made the PowerPoint and compiled all the images and content in detail.
 I then ran through the presentation 5x and dictated it to my phone and had Claude create a word doc for each run
 I uploaded my version of the PowerPoint along with the last 3 transcribes of the run and prompted as follows:
 
- ---
 # Prompts
 In a fresh Claude instance:
 
