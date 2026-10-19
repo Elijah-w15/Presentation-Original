@@ -4,7 +4,7 @@ The original PowerPoint, before I used AI to reformat it. The content and struct
 # Whats Here
 original.pptx: my deck before reformatting\
 final.pptx: the version I presented\
-change_log.docx: before/after text for every slide, with word counts and layout notes\
+change_log.docx: before/after text for every slide, with word counts and layout notes
 
 # Setup
 I made the PowerPoint and compiled all the images and content in detail.
